@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSJhonAG
 - 👀 I’m interested in ... Learning and progress in the profession.
-- 🌱 I’m currently learning ...Visual Basic JAVA 
+- 🌱 I’m currently learning ...Html,CSS,JavaScript.
 - 💞️ I’m looking to collaborate on ... New Projects and new forms of learning.
 - 📫 How to reach me ... My email.
 
